@@ -18,7 +18,7 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Placed in 71st percentile in recent DrivenData competition for wildlife conservation challenge.
 
 
 ## 📬 Get in Touch
