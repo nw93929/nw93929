@@ -7,7 +7,7 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Data Science at the University of Virginia.
-- 🌱 Data Analysis Intern at the Presidential Precinct - [https://presidentialprecinct.org/]
+- 🌍 Data Analysis Intern at the Presidential Precinct - [https://presidentialprecinct.org/]
 - 📝 Actively looking for internships and part-time data science roles for the Spring 2026 Semester and full-time post-graduation.
 - 🏌️ Love to golf and fish!
 
@@ -17,7 +17,11 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 - 🏀 Working on a basketball computer vision project
 - 🚀 Participating in the Data to Impact Challenge hosted by LMI Solutions x UVA to make a product that helps support sustainable data center expansion.
 
- ## 🏆 Achievements
+## 💬 Interested in
+
+- Computer and AI vision, military or search-and-rescue applications, drones are the future! Using it to rate my golf form is pretty cool too though.
+
+## 🏆 Achievements
 
 - 🌟 Placed in 71st percentile in recent DrivenData competition for wildlife conservation challenge.
 
