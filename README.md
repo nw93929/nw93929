@@ -8,7 +8,7 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 
 - 🔭 I'm currently pursuing my Master's in Data Science at the University of Virginia.
 - 🌱 Data Analysis Intern at the Presidential Precinct - [https://presidentialprecinct.org/]
-- 📝 Actively looking for internships and part-time data science roles for the Spring 2026 Semester and full-time post-graduation August 2026.
+- 📝 Actively looking for internships and part-time data science roles for the Spring 2026 Semester and full-time post-graduation.
 - 🏌️ Love to golf and fish!
 
 ## 🌱 Currently Exploring
