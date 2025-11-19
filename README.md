@@ -7,14 +7,15 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Data Science at the University of Virginia.
-- 🌱 Data Analysis Intern at the Presidential Precinct [https://presidentialprecinct.org/]
-- 📝 Actively looking for internships and part-time data science roles for the Spring 2026 Semester.
+- 🌱 Data Analysis Intern at the Presidential Precinct - [https://presidentialprecinct.org/]
+- 📝 Actively looking for internships and part-time data science roles for the Spring 2026 Semester and full-time post-graduation August 2026.
+- 🏌️ Love to golf and fish!
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning about AI, LLMs, NLP, and more!
-- Working on a basketball computer vision project
-- Participating in the Data to Impact Challenge hosted by LMI Solutions x UVA
+- 🧠 Learning more about AI, Deep Learning in Environmental Science, Software Engineering and Development, Risk Analysis and more!
+- 🏀 Working on a basketball computer vision project
+- 🚀 Participating in the Data to Impact Challenge hosted by LMI Solutions x UVA to make a product that helps support sustainable data center expansion.
 
  ## 🏆 Achievements
 
@@ -23,7 +24,7 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 
 ## 📬 Get in Touch
 
-- Connect with me on LinkedIN [https://www.linkedin.com/in/nathan-z-wan/]
+- Connect with me on LinkedIN - [https://www.linkedin.com/in/nathan-z-wan/]
 
 Thanks for stopping by! Let's connect and explore the fascinating world of data science together. 🚀
 
