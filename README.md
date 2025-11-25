@@ -11,6 +11,15 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 - 📝 Actively looking for internships and part-time data science roles for the Spring 2026 Semester and full-time post-graduation.
 - 🏌️ Love to golf and fish!
 
+## 🔨 Skills
+
+- **Programming & Software**
+  - 
+-
+-
+-
+-
+
 ## 🌱 Currently Exploring
 
 - 🧠 Learning more about AI, Deep Learning in Environmental Science, Software Engineering and Development, Risk Analysis and more!
