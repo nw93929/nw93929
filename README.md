@@ -13,22 +13,62 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 
 ## 🔨 Skills
 
-- __Programming & Software__
-  - 
--
--
--
--
+- Programming & Software
+  - Languages: Python, R, SQL, Java, JavaScript, SAS
+  - Libraries: pandas, NumPy, SciPy, scikit-learn, OpenCV, PyTorch, torchvision, timm, TensorFlow, matplotlib, seaborn, tidyverse, ggplot2, tidyr, Flask, plotly, dash
+  - Tools: Git, Github, Docker, MySQL, Excel, ngrok, RESTful APIs, Looker, PowerBI
+
+- Machine Learning & AI
+  - Supervised Learning (Regression, Classification algorithms)
+  - Unsupervised Learning (Clustering algorithms)
+  - Deep Learning
+  - CNNs for image and object detection and classification
+  - Modeling and evaluation
+  - Feature engineering and encoding
+  - Hyperparameter tuning
+  - Mixed-precision training & GPU optimizations
+  - Fine tuning
+
+- Data Analytics
+  - Statistical analysis & inference
+  - Time-series forecasting and analysis
+  - Linear regression
+  - Linear discriminant analysis
+  - Data visualization
+  - Dashboarding
+  - AB Testing
+  - Geospatial analysis
+  - Survey design
+  - Business analytics
+  - Data pipelines (collection, cleaning, wrangling, transformation, mining)
+
+- Databases & Systems
+  - SQL (MySQL, PostgreSQL)
+  - NoSQL (e.g. MongoDB)
+  - Data engineering
+  - Database schemas and design
+  - Data management
+  - APIs
+  - Containers
+  - Exposure to AWS and web deployment
+ 
+- Teamwork & Communication
+  - Experience with non-technical stakeholders
+  - Cross-disciplinary collaboration
+  - Report writing and workflow tracking
+  - Accessibility considerations (color-blind schemas)
 
 ## 🌱 Currently Exploring
 
-- 🧠 Learning more about AI, Deep Learning in Environmental Science, Software Engineering and Development, Risk Analysis and more!
+- 🧠 Learning more about AI, Software Engineering and Development, Cloud Computing and more!
 - 🏀 Working on a basketball computer vision project
 - 🚀 Participating in the Data to Impact Challenge hosted by LMI Solutions x UVA to make a product that helps support sustainable data center expansion.
 
 ## 💬 Interested in
 
 - Computer and AI vision, military or search-and-rescue applications, drones are the future! Using it to rate my golf form is pretty cool too though.
+- Financial applications of data science
+- Startups
 
 ## 🏆 Achievements
 
