@@ -11,6 +11,18 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 - 📝 Actively looking for internships and part-time data science roles for the Spring 2026 Semester and full-time post-graduation.
 - 🏌️ Love to golf and fish!
 
+## 🌱 Currently Exploring
+
+- 🧠 Learning more about AI, Software Engineering and Development, Cloud Computing and more!
+- 🏀 Working on a basketball computer vision project
+- 🚀 Participating in the Data to Impact Challenge hosted by LMI Solutions x UVA to make a product that helps support sustainable data center expansion.
+
+## 💬 Interested in
+
+- Computer and AI vision, military or search-and-rescue applications, drones are the future! Using it to rate my golf form is pretty cool too though.
+- Financial applications of data science
+- Startups
+
 ## 🔨 Skills
 
 - Programming & Software
@@ -58,19 +70,7 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
   - Report writing and workflow tracking
   - Accessibility considerations (color-blind schemas)
 
-## 🌱 Currently Exploring
-
-- 🧠 Learning more about AI, Software Engineering and Development, Cloud Computing and more!
-- 🏀 Working on a basketball computer vision project
-- 🚀 Participating in the Data to Impact Challenge hosted by LMI Solutions x UVA to make a product that helps support sustainable data center expansion.
-
-## 💬 Interested in
-
-- Computer and AI vision, military or search-and-rescue applications, drones are the future! Using it to rate my golf form is pretty cool too though.
-- Financial applications of data science
-- Startups
-
-## 🏆 Achievements
+## 🏆 Recent Achievements
 
 - 🌟 Placed in 71st percentile in recent DrivenData competition for wildlife conservation challenge.
 
