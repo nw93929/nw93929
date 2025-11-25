@@ -13,7 +13,7 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 
 ## 🔨 Skills
 
-- **Programming & Software**
+- __Programming & Software__
   - 
 -
 -
