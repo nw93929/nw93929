@@ -15,11 +15,13 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 
 - 🧠 Learning more about AI, Software Engineering and Development, Cloud Computing and more!
 - 🏀 Working on a basketball computer vision project
+- 🧾 Researching and developing my own AI research agent
 - 🚀 Participating in the Data to Impact Challenge hosted by LMI Solutions x UVA to make a product that helps support sustainable data center expansion.
 
 ## 💬 Interested in
 
-- Computer and AI vision, military or search-and-rescue applications, drones are the future! Using it to rate my golf form is pretty cool too though.
+- Computer and AI vision, military or search-and-rescue applications, drones are the future! Using it to rate my golf form is pretty cool too though
+- AI agents and LLMs
 - Financial applications of data science
 - Startups
 
