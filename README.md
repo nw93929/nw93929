@@ -2,7 +2,7 @@
 
 I am a passionate MSDS student at the School of Data Science @UVA, driven by a curiosity for the capabilities of data science and AI. My journey involves delving into the world of data science, exploring new ideas, and connecting with likeminded people in the community!
 
-![nw93929's Stats](https://github-readme-stats.vercel.app/api?username=nw93929&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![nw93929's Stats](https://github-readme-stats.vercel.app/api?username=nw93929&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
