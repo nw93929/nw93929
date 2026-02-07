@@ -15,8 +15,7 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 
 - 🧠 Learning more about AI agents, Computer Vision applications, Software Development, Cloud Computing and more!
 - 🧾 Developing my own financial AI research agent
-- 🧾 Researching VLM applications beyond open-vocabulary identification and towards affordance, what are the functions of this object this model has never seen before?
-- 🚀 Participating in the Data to Impact Challenge hosted by LMI Solutions x UVA to make a product that helps support sustainable data center expansion.
+- 🚀 Researching VLM applications beyond open-vocabulary identification and towards affordance, what are the functions of this object this model has never seen before?
 
 ## 💬 Interested in
 
