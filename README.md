@@ -13,21 +13,19 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 
 ## 🌱 Currently Exploring
 
-- 🧠 Learning more about AI agents, Computer Vision applications, Software Development, Cloud Computing and more!
-- 🧾 Developing my own financial AI research agent
-- 🚀 Researching VLM applications beyond open-vocabulary identification and towards affordance, what are the functions of this object this model has never seen before?
+- 🧠 Learning more about AI agents, Deep Learning, Software Development, Cloud Computing and more!
+- 🚀 Researching VLM applications beyond open-vocabulary identification and towards affordance: what are the functions of this object this model has never seen before and how can we interact with it?
 
 ## 💬 Interested in
 
-- Computer and AI vision, military or robitics applications are particularly cool to me
+- Computer and AI vision, applications in robotics or with drones are particularly cool to me
 - AI agents and LLMs
 - Financial applications of data science
 - Startups
 
 ## 🏆 Recent Achievements
 
-- 🌟 Placed in 71st percentile in recent DrivenData competition for wildlife conservation challenge.
-
+- 🌟 Placed in Top 1% in recent DrivenData competition for wildlife conservation challenge out of 579 submissions
 
 ## 📬 Get in Touch
 
