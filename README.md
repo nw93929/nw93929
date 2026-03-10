@@ -2,7 +2,7 @@
 
 I am a passionate MSDS student at the School of Data Science @UVA, driven by a curiosity for the capabilities of data science and AI.
 
-[[![Nathan Wan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nw93929&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api?username=nw93929&theme=vue-dark&show_icons=true&hide_border=true)
+![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nw93929&theme=vue-dark&show_icons=true&hide_border=true)
 
 ## 🚀 About Me
 
