@@ -14,7 +14,7 @@ I am a passionate MSDS student at the School of Data Science @UVA, driven by a c
 ## 🌱 Currently Exploring
 
 - 🧠 Learning more about AI agents, Deep Learning, Software Development, Cloud Computing and more!
-- 🚀 Researching VLM applications beyond open-vocabulary identification and towards affordance: what are the functions of this object this model has never seen before and how can we interact with it?
+- 🚀 Researching novel methodology to balance the need for new model capabilities and scarce resources, providing LLMs with capabilities to reason through and understand 3D pose data without having to undergo extensive retraining, increasing accessibility of motion and pose comprehension built on top of previous work in the field treating images as a foreign languages (Beyond Text)
 
 ## 💬 Interested in
 
