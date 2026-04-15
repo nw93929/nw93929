@@ -2,6 +2,8 @@
 
 I am a passionate MSDS student at the School of Data Science @UVA, driven by a curiosity for the capabilities of data science and AI.
 
+🌐 [My Portfolio](https://nathanwan.dev)
+
 ![My GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nw93929&theme=vue-dark&show_icons=true&hide_border=true)
 
 ## 🚀 About Me
